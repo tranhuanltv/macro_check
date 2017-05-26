@@ -8,3 +8,4 @@ script:
   - g++ -v
   - g++ macro_check.cpp -o macro_check
   - ./macro_check
+  - valgrind ./macro_check
