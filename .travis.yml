@@ -2,4 +2,5 @@ language: cpp
 
 script:
   - g++ -v
-  - g++ macro_check.cpp -o macro_
+  - g++ macro_check.cpp -o macro_check
+  - ./macro_check
