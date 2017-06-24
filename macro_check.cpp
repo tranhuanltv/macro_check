@@ -43,5 +43,5 @@ int main()
 	#endif
 	
 	printf("%s Done checking\n", __FUNCTION__)
-	return 0;
+	return 0
 }
