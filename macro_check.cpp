@@ -42,6 +42,6 @@ int main()
 		printf("__sparc\n");
 	#endif
 	
-	printf("%s Done checking\n", __FUNCTION__)
+	printf("%s Done checking\n", __FUNCTION__);
 	return 0
 }
